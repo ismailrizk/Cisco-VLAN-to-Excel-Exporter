@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from netmiko import ConnectHandler
 import pandas as pd
 import re
