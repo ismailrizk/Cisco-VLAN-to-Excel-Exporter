@@ -78,13 +78,4 @@ python vlan_exporter.py
 
 ---
 
-## Project Structure
-
-```
-vlan-exporter/
-├── vlan_exporter.py       ← Main script
-├── cisco_config.cli       ← Cisco IOS PNetLab test config
-├── aruba_cx_config.cli    ← Aruba AOS-CX PNetLab test config
-└── README.md              ← This file
-```
 
